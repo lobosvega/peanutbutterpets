@@ -192,6 +192,10 @@ img.example-image {
 .portfolio-item {
   overflow: hidden;
 }
+.btn.btn-secondary.btn-sm {
+  background-color: #FF0099;
+  border-color: #FF0099;
+}
 
 
 
@@ -211,19 +215,17 @@ blockquote .svg-inline--fa {
   color: #1EBBA3;
 }
 .clients-hr {
-  border-top: .05rem solid #1EBBA3;
+  border-top: .05rem solid #ff7f24;
 }
 
 /*============= CONTACT SECTION =============*/
 
 footer {
-  background: url('./assets/img/58aeffa2c869e092af51ee72.png') no-repeat;
-  /*background-color: #40474e;*/
   background-size: cover;
   color: white;
 }
 footer .row {
-  background-color: rgba(70, 57, 66, 0.85);
+  background-color: #ff7f24;
   padding: 1rem 2rem 3rem;
 }
 footer img {
@@ -238,7 +240,7 @@ footer svg.svg-inline--fa {
   margin: 1.2rem .5rem 0 0;
 }
 footer svg.svg-inline--fa:hover {
-  color: #1ebba3!important;
+  color: #FF99FF!important;
 }
 footer h3 {
   text-transform: uppercase;
@@ -251,13 +253,13 @@ footer h3 {
 .form-control {
   background-color: white;
   border-radius: 0;
-  border: .15rem solid #666b71;
+  border: .15rem solid e0eeee;
   color: black!important;
   font-size: 1.1rem;
 }
 .form-control:focus {
-  background: #53595f;
-  border: .15rem solid #666b71;
+  background: e0eeee;
+  border: .15rem solid e0eeee;
 }
 .form-group input::placeholder,
 .form-group textarea::placeholder {
@@ -267,7 +269,7 @@ input.btn {
   cursor: pointer;
 }
 hr.socket {
-  border-top: .2rem solid #666b71;
+  border-top: .2rem solid #e0eeee;
   width: 100%;
 }
 
