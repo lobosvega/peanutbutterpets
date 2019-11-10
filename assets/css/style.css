@@ -134,7 +134,7 @@ h3.heading {
 .heading-underline {
   width: 3rem;
   height: .2rem;
-  background-color: ##FF0099;
+  background-color: #ff7f24;
   margin: 0 auto 2rem;
 }
 .feature {
@@ -240,7 +240,7 @@ footer svg.svg-inline--fa {
   margin: 1.2rem .5rem 0 0;
 }
 footer svg.svg-inline--fa:hover {
-  color: #FF99FF!important;
+  color: #ffa953!important;
 }
 footer h3 {
   text-transform: uppercase;
