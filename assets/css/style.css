@@ -170,7 +170,7 @@ h3.heading {
   z-index: 1000!important;
 }
 .dark h3, .dark p {
-  color: #B7AFCD;
+  color: white;
 }
 
 /*============= PORTFOLIO SECTION =============*/
@@ -214,7 +214,7 @@ img.example-image {
 }
 blockquote .svg-inline--fa {
   margin: 1rem;
-  color: #1EBBA3;
+  color: #ff7f24;
 }
 .clients-hr {
   border-top: .05rem solid #ff7f24;
