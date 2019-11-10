@@ -115,8 +115,8 @@ body {
 }
 .btn-turquoise:hover,
 .btn-turquoise:focus {
-  border-color: #FF99FF;
-  background-color: #FF99FF;
+  border-color: #ffa953;
+  background-color:#ffa953;
   color: white;
 }
 .jumbotron {
@@ -141,7 +141,7 @@ h3.heading {
   text-align: center;
 }
 .feature .fa-layers {
-  color: #FF0099;
+  color: #ff7f24;
   margin: 0 auto;
   width: 3.9rem;
   height: 6rem;
@@ -193,8 +193,8 @@ img.example-image {
   overflow: hidden;
 }
 .btn.btn-secondary.btn-sm {
-  background-color: #FF0099;
-  border-color: #FF0099;
+  background-color: #ff7f24;
+  border-color: #ff7f24;
 }
 
 
