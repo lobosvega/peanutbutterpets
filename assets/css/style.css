@@ -112,6 +112,7 @@ body {
   border-color: #ff7f24;
   background-color: #ff7f24;
   color: white;
+  border-radius: 25px;
 }
 .btn-turquoise:hover,
 .btn-turquoise:focus {
