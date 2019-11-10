@@ -135,7 +135,7 @@ $(document).ready(function() { //when document is ready
 
 
 //Optional Refresh Page at top of document on load instead of at # hash
-/*
+
 
 $(document).ready(function(){
     $('html, body').scrollTop(0);
@@ -146,7 +146,6 @@ $(document).ready(function(){
  });
 });
 
-*/
 
 //UPDATE ADDITIONS:
 
