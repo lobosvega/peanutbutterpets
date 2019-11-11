@@ -1,4 +1,4 @@
-# peanutbutterpets
+# PeanutButter Pets
 
 
 Website for Peanut Butter Pets Grooming in Miami, FL 
